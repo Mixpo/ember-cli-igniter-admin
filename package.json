@@ -1,0 +1,17 @@
+{
+  "name": "ember-cli-igniter-admin",
+  "version": "1.0.0",
+  "description": "Igniter build processes.",
+  "keywords": [
+    "ember-addon"
+  ],
+  "ember-addon": {
+    "main": "lib/ember-addon-main.js",
+    "before": "ember-cli-inject-live-reload"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash-node": "^2.4.1"
+  }
+}
