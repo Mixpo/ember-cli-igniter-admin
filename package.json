@@ -5,6 +5,7 @@
   "keywords": [
     "ember-addon"
   ],
+  "main": "lib/ember-addon-main.js",  
   "ember-addon": {
     "main": "lib/ember-addon-main.js",
     "before": "ember-cli-inject-live-reload"
